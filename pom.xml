@@ -6,7 +6,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>Spring Boot</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -50,7 +50,7 @@
             <version>11.2.0.3</version>
         </dependency> -->
         <dependency>
-    		<groupId>com.oracle</groupId>
+    		<groupId>com.oracle.jdbc</groupId>
     		<artifactId>ojdbc8</artifactId>
     		<version>12.2.0.1</version>
 		</dependency>
